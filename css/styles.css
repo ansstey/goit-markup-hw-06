@@ -640,7 +640,7 @@
       0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
     margin-right: 28px;
     margin-left: 28px;
-    width: calc(100% -32px);
+    width: 264px;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -677,6 +677,7 @@
     gap: 24px;
     justify-content: center;
     align-items: center;
+   
   }
   
   .social-item {
