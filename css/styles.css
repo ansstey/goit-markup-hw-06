@@ -347,7 +347,17 @@
   .mobile-menu-address-item:focus {
     color: var(--primary-band);
   }
-  
+
+
+.mobile-list-link:hover,
+    .mobile-list-link:focus,
+    .mobile-menu-address-link:hover,
+    .mobile-menu-address-link:focus,
+    .mobile-list-link-active {
+      color: var(--pressed-state);
+    }
+
+
   .mobile-menu-icon-list {
     display: flex;
     gap: 40px;
